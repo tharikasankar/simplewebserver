@@ -43,6 +43,6 @@ httpd.serve_forever()
 
 ## OUTPUT:
 
-![OUTPUT](./Image/Screenshot (2).png)
+![OUTPUT](./Image/Output.png)
 ## RESULT:
-Success
+Program executed successfully
